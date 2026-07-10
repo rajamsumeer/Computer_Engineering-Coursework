@@ -6,3 +6,5 @@
 ## This repository is still being updated or modified. Check again later!
 ## Additional Notes
 - This repository's main goal is to have most related course content in one area, rather than having seperate repositories for each module covered, which you will notice on my profile. Some repositories are an exception and will not be merged here.
+
+<img width="1247" height="629" alt="image" src="https://github.com/user-attachments/assets/a7b19e15-52d1-4457-834e-2b9b9bd5ae33" />
