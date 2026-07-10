@@ -1,0 +1,41 @@
+/*
+Student ID:
+Student Name: Raja M Sumeer
+Module: Java & Algorithms @ Year 3, Semester 2 (Technological University Dublin)
+Date: 28/02/2026
+Code Purpose: Lecture 7 Exercises
+Q3
+Credits Sources: Oracle, W3Schools, Lectures
+*/
+import java.util.Scanner;
+import java.util.Arrays;
+
+public class binarySearch {
+    public static int rank(int[] a, int key) {
+        int lo = 0;
+        int hi = a.length - 1;
+        while (lo <= hi) {
+            // Key is in a[lo..hi] or not present.
+            int mid = lo + (hi - lo) / 2;
+            if (key < a[mid]) hi = mid - 1;
+            else if (key > a[mid]) lo = mid + 1;
+            else return mid;
+        }
+        return -1;
+    }
+
+    public static void main(String args[]) {
+        int[] whitelist = Reader.readAllInts(args[0]);
+
+        Arrays.sort(whitelist);
+
+        Scanner scan = new Scanner(System.in);
+        while (scan.hasNext()) {
+            int n = scan.nextInt();
+            if (rank(whitelist, n) == -1) {
+                System.out.println(n);
+            }
+        }
+        scan.close();
+    }
+}
