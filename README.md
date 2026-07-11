@@ -44,6 +44,8 @@ Some repositories may remain independant from this central point repository as:
 - They are large projects,
 - Better suited to be standalone rather than be merged here.
 
+---------------------------
+
 ## Future Improvments / Checklist
 
 ---------------------------
