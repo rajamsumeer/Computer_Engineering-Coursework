@@ -1,4 +1,7 @@
 # Computer_Engineering-Coursework
+![Status](https://img.shields.io/badge/Status-In%20Progress-red)
+![Degree](https://img.shields.io/badge/B.Eng-Computer%20Engineering-blue)
+![Language](https://img.shields.io/badge/Content-Multi--language-success)
 > A curated collection of university work throughout my **Computer Engineering** degree, from **First Year** to **Final Year**.
 
 ## Overview
