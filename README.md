@@ -46,7 +46,7 @@ Some repositories may remain independant from this central point repository as:
 
 ---------------------------
 
-## Future Improvments / Checklist
+## Future Improvements / Checklist
 
 ---------------------------
 
