@@ -38,4 +38,6 @@ Some repositories may remain independant from this central point repository as:
 - They are large projects,
 - Better suited to be standalone rather than be merged here.
 
+## Future Improvments / Checklist
+
 <img width="1247" height="629" alt="image" src="https://github.com/user-attachments/assets/a7b19e15-52d1-4457-834e-2b9b9bd5ae33" />
