@@ -14,6 +14,8 @@ While the majority of content here will consist of source code, additional docum
 
 This includes old content, such as source code being updated or it's documentation being revised.
 
+---------------------------
+
 ## Repository Structure
 ```text
 Computer_Engineering-Coursework
@@ -26,10 +28,14 @@ Computer_Engineering-Coursework
 ├── readme.md
 ```
 
+---------------------------
+
 ## Current Progress
 > [!NOTE]
 > This repository is still being modified, updated, organised and documented.
 > Older coursework is gradually being migrated.
+
+---------------------------
 
 ## Additional Comments
 > [!TIP]
@@ -39,5 +45,7 @@ Some repositories may remain independant from this central point repository as:
 - Better suited to be standalone rather than be merged here.
 
 ## Future Improvments / Checklist
+
+---------------------------
 
 <img width="1247" height="629" alt="image" src="https://github.com/user-attachments/assets/a7b19e15-52d1-4457-834e-2b9b9bd5ae33" />
